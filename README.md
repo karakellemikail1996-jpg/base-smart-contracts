@@ -48,3 +48,6 @@ git commit -m "docs: add LICENSE file"
 # 7
 git add README.md
 git commit -m "docs: update project description"
+# 8
+git add contracts/Counter.sol
+git commit -m "refactor: improve variable naming in Counter"
