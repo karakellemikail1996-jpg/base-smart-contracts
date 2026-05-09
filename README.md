@@ -29,3 +29,6 @@ git commit -m "feat: add Greeter contract with constructor"
 echo "Base Builder Guild - 50 Commit Görevi" >> README.md
 git add README.md
 git commit -m "docs: add guild progress note to README"
+# 2
+git add contracts/MyFirstContract.sol
+git commit -m "docs: add detailed comments to MyFirstContract"
