@@ -35,3 +35,6 @@ git commit -m "docs: add detailed comments to MyFirstContract"
 # 3
 git add contracts/Counter.sol
 git commit -m "feat: add getCount function to Counter"
+# 4
+git add contracts/SimpleStorage.sol
+git commit -m "docs: improve comments in SimpleStorage"
