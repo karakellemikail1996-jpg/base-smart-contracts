@@ -45,3 +45,6 @@ git commit -m "feat: add event to Greeter contract"
 echo "MIT License" >> LICENSE
 git add LICENSE
 git commit -m "docs: add LICENSE file"
+# 7
+git add README.md
+git commit -m "docs: update project description"
