@@ -25,4 +25,7 @@ git commit -m "feat: add SimpleStorage contract"
 git add contracts/Greeter.sol
 git commit -m "feat: add Greeter contract with constructor"
 
-
+# 1
+echo "Base Builder Guild - 50 Commit Görevi" >> README.md
+git add README.md
+git commit -m "docs: add guild progress note to README"
