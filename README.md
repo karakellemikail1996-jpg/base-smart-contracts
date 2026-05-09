@@ -32,3 +32,6 @@ git commit -m "docs: add guild progress note to README"
 # 2
 git add contracts/MyFirstContract.sol
 git commit -m "docs: add detailed comments to MyFirstContract"
+# 3
+git add contracts/Counter.sol
+git commit -m "feat: add getCount function to Counter"
