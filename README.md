@@ -41,3 +41,7 @@ git commit -m "docs: improve comments in SimpleStorage"
 # 5
 git add contracts/Greeter.sol
 git commit -m "feat: add event to Greeter contract"
+# 6
+echo "MIT License" >> LICENSE
+git add LICENSE
+git commit -m "docs: add LICENSE file"
