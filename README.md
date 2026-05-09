@@ -38,3 +38,6 @@ git commit -m "feat: add getCount function to Counter"
 # 4
 git add contracts/SimpleStorage.sol
 git commit -m "docs: improve comments in SimpleStorage"
+# 5
+git add contracts/Greeter.sol
+git commit -m "feat: add event to Greeter contract"
