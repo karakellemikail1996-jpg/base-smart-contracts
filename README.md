@@ -51,3 +51,6 @@ git commit -m "docs: update project description"
 # 8
 git add contracts/Counter.sol
 git commit -m "refactor: improve variable naming in Counter"
+# 9
+git add contracts/MyFirstContract.sol
+git commit -m "feat: add new function to MyFirstContract"
