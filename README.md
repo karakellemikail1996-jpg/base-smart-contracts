@@ -57,3 +57,5 @@ git commit -m "feat: add new function to MyFirstContract"
 # 10
 git add README.md
 git commit -m "docs: add contract list to README"
+git push -u origin main
+
